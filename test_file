@@ -1,9 +1,5 @@
-"/home/ubuntu/Maildir": 1 message
 >O  1 Mail Delivery Syst Thu Jan  1 00:00   68/2406  Undelivered Mail Returned to Sender
 NETWORK ID          NAME                DRIVER              SCOPE
-90d388bc4dba        bridge              bridge              local
 f1cece976aae        host                host                local
 eb53fd7f2ea3        none                null                localHeld 1 message in /home/ubuntu/Maildir
 "+sent": 1 message 1 new
->N  1 info@.com   Sun Oct 29 20:51   12/287   Test email subject line
-? q
