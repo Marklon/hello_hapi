@@ -1,9 +1,0 @@
->O  1 Mail Delivery Syst Thu Jan  1 00:00   68/2406  Undelivered Mail Returned to Sender
-  NETWORK ID          NAME                DRIVER              SCOPE
- +<<<<<<< HEAD
-  f1cece976aae        host                host                local
-  eb53fd7f2ea3        none                null                localHeld 1 message in /home/ubuntu/Maildir
-  Different / Your Investment "+sent": 1 message 1 new
- +=======
- +"+sent": 1 message 1 new
- +>>>>>>> f2302985fb8d29db8b5cb324d62f8c8f4a387bae
